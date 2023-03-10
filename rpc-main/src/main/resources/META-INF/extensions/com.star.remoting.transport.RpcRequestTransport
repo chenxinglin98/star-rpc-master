@@ -1,0 +1,2 @@
+netty=com.star.remoting.transport.netty.client.NettyRpcClient
+socket=com.star.remoting.transport.socket.SocketRpcClient
